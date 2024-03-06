@@ -1,5 +1,5 @@
 
-import Logo from "./component/Logo/Logo"
+import Logo from "./component/Header/Logo/Logo"
 import './App.css'
 
 function App() {
